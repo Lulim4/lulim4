@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...open source, coding
 - 🌱 I’m currently learning ... git(hub)
 - 💞️ I’m looking to collaborate on ... open source projects 
-- 📫 How to reach me ...git, twitter 
+- 📫 How to reach me ...gitter, twitter 
 
 <!---
 Lulim4/Lulim4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
